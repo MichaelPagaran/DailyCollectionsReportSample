@@ -1,0 +1,11 @@
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\bin\Debug\DailyCollectionsReport.exe.config
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\bin\Debug\DailyCollectionsReport.exe
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\bin\Debug\DailyCollectionsReport.pdb
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\obj\Debug\DailyCollectionsReport.Properties.Resources.resources
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\obj\Debug\DailyCollectionsReport.csproj.GenerateResource.cache
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\obj\Debug\DailyCollectionsReport.csproj.CoreCompileInputs.cache
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\obj\Debug\DailyCollectionsReport.exe
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\obj\Debug\DailyCollectionsReport.pdb
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\obj\Debug\DailyCollectionsReport.DailyCollectionReportForm.resources
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\obj\Debug\DailyCollectionsReport.csprojAssemblyReference.cache
+C:\Users\Potato\source\repos\DailyCollectionsReport\DailyCollectionsReport\obj\Debug\DailyCollectionsReport.Form2.resources
